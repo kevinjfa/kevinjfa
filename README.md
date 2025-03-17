@@ -6,7 +6,7 @@ Developer primarily focused on enterprise software solutions.
 
 I am currently in my third year of Computer Engineering. I am deeply passionate about backend development, and aspire to work on enterprise software solutions. I enjoy solving real-world problems by optimising business processes to the fullest. My goal is to develop clean, efficient and user-friendly web or desktop applications that help employees and enterprises save time and resources.
 
-* 🌍  I'm based in Arucas, Las Palmas, Gran Canaria.
+* 🌍  I live in Arucas, Las Palmas, Gran Canaria.
 * ✉️  You can contact me at [kevin.fa7@outlook.com](mailto:kevin.fa7@outlook.com)
 * 🧠  I'm learning Angular and exploring how to work with REST APIs.
 
